@@ -1,0 +1,10 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}
+\contentsline {chapter}{\numberline {2}Knowledge on Perception}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}History}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Present}{3}{section.2.2}
+\contentsline {chapter}{\numberline {3}Technological Advancements}{4}{chapter.3}
+\contentsline {section}{\numberline {3.1}Handicap Support}{4}{section.3.1}
+\contentsline {chapter}{\numberline {4}Discussion}{5}{chapter.4}
+\contentsline {chapter}{\numberline {5}Summary}{6}{chapter.5}
+\contentsline {chapter}{\numberline {6}Conclusion}{7}{chapter.6}
